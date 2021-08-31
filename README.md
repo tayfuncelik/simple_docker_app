@@ -25,7 +25,7 @@ delete: docker container rm demo-service
 ### How to check API
 
 open
- ```[http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)```
+[http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
 
 There is only one API and 1 method. You can use "Try it out" and send  sample request.
 
