@@ -7,7 +7,7 @@ This project contains  The project is based on a small web service which uses th
 * Maven
 * Docker
 * TDD
-```
+
 ```bash
 
 build: docker build -f Dockerfile -t demo:latest .
